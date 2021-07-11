@@ -1,0 +1,212 @@
+Cliente:
+
+
+Introduza o IP do Servidor: 192.168.1.70
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R UAL UAL
+Item registado com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R SDP Sistmas Distribuídos e Paralelos
+Item registado com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R POO Programação Orientada a Objetos
+Item registado com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R AP Algoritmia e Programação
+Item registado com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: C UAL
+UAL
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: C
+Ocorreu um erro.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R UAL UAL
+Chave existente.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: C AED
+Chave inexistente
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R AED Algoritmos e Estruturas de Dados
+Item registado com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: C AED
+Algoritmos e Estruturas de Dados
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: D UAL
+Item removido com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: C UAL
+Chave inexistente
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: R Universidade Autónoma de Lisboa
+Item registado com sucesso.
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: C UAL
+Chave inexistente
+
+Comandos: R -> Registar (chave-valor); C -> Consultar (chave); D -> Apagar (chave-valor); Q -> Sair;
+Introduza os parametros [(comando) (chave) (valor)]: Q
+Ligação terminada.
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+Server e Node 1 (Nó participante):
+
+Servidor iniciado.
+Endereço de Servidor: 192.168.1.70:4444
+Em espera por ligações...
+Em espera por ligações...
+Nó resgistado com endereço: 192.168.1.74:4445
+
+Lista de endereços dos Nós: 
+192.168.1.70:4444 -> IDs: [1, 2, 3, 4, 5]
+192.168.1.74:4445 -> IDs: [6, 7, 8, 9, 10]
+Em espera por ligações...
+Nó resgistado com endereço: 192.168.1.66:4446
+
+Lista de endereços dos Nós: 
+192.168.1.70:4444 -> IDs: [1, 2, 3]
+192.168.1.74:4445 -> IDs: [4, 5, 6]
+192.168.1.66:4446 -> IDs: [7, 8, 9, 10]
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 7
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Item registado com sucesso.
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.74:4445 - Nó ID - 6
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.74:4445 - Nó ID - 6
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.74:4445 - Nó ID - 6
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Item registado com sucesso.
+Cliente redirecionado para: 192.168.1.66:4446 - Nó ID - 8
+Ligação de cliente terminada.
+Em espera por ligações...
+Cliente ligado.
+
+Ligação de cliente terminada.
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+NODE 2: 
+
+Introduza o IP do Servidor: 192.168.1.70
+Endereço deste Não: 192.168.1.66:4446
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Item registado com sucesso.
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Item registado com sucesso.
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Item registado com sucesso.
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+UAL
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Registo repetido. Não efectuado.
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Item removido com sucesso.
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Chave inexistente
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Chave inexistente
+Em espera de pedidos...
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+Node 3:
+
+Introduza o IP do Servidor: 192.168.1.70
+Endereço deste Não: 192.168.1.74:4445
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Chave inexistente
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Item registado com sucesso.
+Em espera de pedidos...
+Ligação estabelecida com cliente.
+
+Algoritmos e Estruturas de Dados
+Em espera de pedidos...
+
+
